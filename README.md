@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Olá! Sou Lindomário Damasceno, tenho 20 anos e atualmente curso Análise e Desenvolvimento de Sistemas. Sou fascinado por tecnologia e pelo impacto que ela pode gerar na vida das pessoas. Tenho grande apreço pela organização, clareza e eficiência dos códigos que escrevo, sempre buscando boas práticas de desenvolvimento. Acredito no potencial dos softwares e das soluções tecnológicas como ferramentas para transformar o mundo, resolver problemas reais e gerar valor para a sociedade. 
+Olá! Sou Lindomário Damasceno, tenho 21 anos e atualmente curso Análise e Desenvolvimento de Sistemas. Sou fascinado por tecnologia e pelo impacto que ela pode gerar na vida das pessoas. Tenho grande apreço pela organização, clareza e eficiência dos códigos que escrevo, sempre buscando boas práticas de desenvolvimento. Acredito no potencial dos softwares e das soluções tecnológicas como ferramentas para transformar o mundo, resolver problemas reais e gerar valor para a sociedade. 
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -99,18 +99,14 @@ Olá! Sou Lindomário Damasceno, tenho 20 anos e atualmente curso Análise e Des
 
 ### 📊 Estatísticas
 
-<img
+<<img
   align="left"
-  alt="GitHub Stats"
   height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=damasceno635&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=damasceno635&show_icons=true&theme=tokyonight&include_all_commits=true"
 />
 
 <img
   align="left"
-  alt="GitHub Stats"
   height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=damasceno635&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=damasceno635&theme=tokyonight&layout=compact&langs_count=7"
 />
